@@ -51,7 +51,5 @@ resizeButton.addEventListener("click", () => {
     }
 });
 
-
-
 generateGrid(size);
 
